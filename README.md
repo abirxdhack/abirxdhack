@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abirxdhack&show_icons=true&theme=algolia&layout=compact" alt="abirxdhack" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirxdhack&layout=compact" alt="abirxdhack" />
 </div>
 
 <div align="center">
