@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/Wv8h54sY/coding.png" alt="coding" border="0" width="400"/></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/Wv8h54sY/coding.png" alt="coding" border="0" width="200" height="200"/></a>
   <h1>Hi 👋, I'm Abir Arafat Chawdhury 💥</h1>
   <h2>A Successful Entrepreneur, Coder, Cracker, Modder, Programmer, and Web Developer ✨</h2>
   <p><img src="https://komarev.com/ghpvc/?username=abirxdhack&label=Profile%20views&color=0e75b6&style=flat" alt="abirxdhack" /></p>
@@ -76,7 +76,7 @@
 <hr>
 <h3 align="center">📬 Contact Me ✨</h3>
 <p align="center">
-  <a href="Click Here">abirthedigitalguru@gmail.com</a>
+  <a href="mailto:your.email@example.com">abirthedigitalguru@gmail.com</a>
 </p>
 <hr>
 <p align="center">
